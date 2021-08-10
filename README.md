@@ -1,3 +1,3 @@
 # miki101
 
-My latesst design for my website. 
+My latest design for my website. 
